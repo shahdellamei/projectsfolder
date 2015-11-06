@@ -1,0 +1,28 @@
+
+body 
+{  background: #666;
+    color: #000; }
+    
+h1 { 
+color: #700000;
+padding: 10px; 
+}
+
+h3 { 
+color: #99FFCC;
+font-family: Calibri, Arial, sans-serif;
+}
+
+#links {
+text-align: center;
+padding:10px;
+margin-left: 20px;
+}
+
+#github
+{ text-align: center;
+padding:10px;
+margin-left: 20px; }
+
+a { color: #379CB2; }
+a:hover { color: #82E8FF; }
